@@ -6,7 +6,7 @@ Welcome to the official download page for the HatchCoins Manager desktop applica
 ## 🚀 Download Installer
 Click the button below to download the latest stable version for Windows:
 
-[![Download HatchCoins]([https://shields.io](https://github.com/rbeamj/HatchCoins/releases/download/V1.01/HatchCoinsManager_Setup_v1.0.0.exe)]
+[![Download HatchCoins]([(https://github.com/rbeamj/HatchCoins/releases/download/V1.01/HatchCoinsManager_Setup_v1.0.0.exe)]
 
 ---
 
